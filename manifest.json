@@ -1,0 +1,17 @@
+
+{
+  "short_name": "SPEAKSYNC",
+  "name": "SPEAKSYNC - Dutch AI Tutor",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lucide-react/lucide-react@main/icons/graduation-cap.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#020617"
+}
